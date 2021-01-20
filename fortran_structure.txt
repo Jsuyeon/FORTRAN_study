@@ -1,0 +1,11 @@
+       PROGRRAM program-name
+       IMPLICIT NONE
+       [변수 선언]
+       [코드]
+       [subprogram]
+       END PROGRAM program-name
+       
+       
+       고정형식으로 명령어 작성 위치는 7~72칼럼까지로 제한
+
+1234567
