@@ -1,4 +1,6 @@
-       program codesummation
+! goal : sum of 1 to 100 with using goto
+
+      program codesummation
        implicit none
        integer::s=0,i=0
 10     i=i+1

@@ -1,4 +1,7 @@
-       program ex6
+! goal: sum of 1 to 100 with using continue
+
+
+      program ex6
        implicit none
        integer::n,s
        s=0
